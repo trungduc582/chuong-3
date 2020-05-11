@@ -1,0 +1,12 @@
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong3\BT5\bin\Debug\BT5.exe.config
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong3\BT5\bin\Debug\BT5.exe
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong3\BT5\bin\Debug\BT5.pdb
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong3\BT5\obj\Debug\BT5.csprojResolveAssemblyReference.cache
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong3\BT5\obj\Debug\BT5.exe
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong3\BT5\obj\Debug\BT5.pdb
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong-3\BT5\bin\Debug\BT5.exe.config
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong-3\BT5\bin\Debug\BT5.exe
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong-3\BT5\bin\Debug\BT5.pdb
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong-3\BT5\obj\Debug\BT5.csprojResolveAssemblyReference.cache
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong-3\BT5\obj\Debug\BT5.exe
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong-3\BT5\obj\Debug\BT5.pdb

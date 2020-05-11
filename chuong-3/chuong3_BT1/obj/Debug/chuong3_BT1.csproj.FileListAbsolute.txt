@@ -1,0 +1,15 @@
+f:\users\ducnt\documents\visual studio 2015\Projects\chuong3\chuong3_BT1\bin\Debug\chuong3_BT1.exe.config
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong3\chuong3_BT1\obj\Debug\chuong3_BT1.csprojResolveAssemblyReference.cache
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong3\chuong3_BT1\bin\Debug\chuong3_BT1.exe
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong3\chuong3_BT1\bin\Debug\chuong3_BT1.pdb
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong3\chuong3_BT1\obj\Debug\chuong3_BT1.exe
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong3\chuong3_BT1\obj\Debug\chuong3_BT1.pdb
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong-3\chuong3_BT1\bin\Debug\chuong3_BT1.exe.config
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong-3\chuong3_BT1\bin\Debug\chuong3_BT1.exe
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong-3\chuong3_BT1\bin\Debug\chuong3_BT1.pdb
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong-3\chuong3_BT1\obj\Debug\chuong3_BT1.csprojResolveAssemblyReference.cache
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong-3\chuong3_BT1\obj\Debug\chuong3_BT1.exe
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong-3\chuong3_BT1\obj\Debug\chuong3_BT1.pdb
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong-3-master\chuong3_BT1\bin\Debug\chuong3_BT1.exe.config
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong-3-master\chuong3_BT1\obj\Debug\chuong3_BT1.exe
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong-3-master\chuong3_BT1\obj\Debug\chuong3_BT1.pdb

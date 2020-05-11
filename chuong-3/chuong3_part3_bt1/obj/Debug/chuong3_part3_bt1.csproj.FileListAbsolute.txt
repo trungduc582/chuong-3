@@ -1,0 +1,8 @@
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong-3\chuong3_part3_bt1\bin\Debug\chuong3_part3_bt1.exe.config
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong-3\chuong3_part3_bt1\bin\Debug\chuong3_part3_bt1.exe
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong-3\chuong3_part3_bt1\bin\Debug\chuong3_part3_bt1.pdb
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong-3\chuong3_part3_bt1\obj\Debug\chuong3_part3_bt1.exe
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong-3\chuong3_part3_bt1\obj\Debug\chuong3_part3_bt1.pdb
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong-3-master\chuong3_part3_bt1\bin\Debug\chuong3_part3_bt1.exe.config
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong-3-master\chuong3_part3_bt1\obj\Debug\chuong3_part3_bt1.exe
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong-3-master\chuong3_part3_bt1\obj\Debug\chuong3_part3_bt1.pdb

@@ -1,0 +1,6 @@
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong-3-master\Chuong3_part3_bt2\bin\Debug\Chuong3_part3_bt2.exe.config
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong-3-master\Chuong3_part3_bt2\bin\Debug\Chuong3_part3_bt2.exe
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong-3-master\Chuong3_part3_bt2\bin\Debug\Chuong3_part3_bt2.pdb
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong-3-master\Chuong3_part3_bt2\obj\Debug\Chuong3_part3_bt2.csprojResolveAssemblyReference.cache
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong-3-master\Chuong3_part3_bt2\obj\Debug\Chuong3_part3_bt2.exe
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong-3-master\Chuong3_part3_bt2\obj\Debug\Chuong3_part3_bt2.pdb
